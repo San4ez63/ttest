@@ -14,11 +14,11 @@
 
 **В результате тестирования выявлены следующие дефекты**:
 
-<https://github.com/San4ez63/key/issues/1>
+https://github.com/San4ez63/ttest/issues/1
 
-<https://github.com/San4ez63/key/issues/2>
+https://github.com/San4ez63/ttest/issues/2
 
-<https://github.com/San4ez63/key/issues/3>
+https://github.com/San4ez63/ttest/issues/3
 
 
 **Описание процесса тестирования**
