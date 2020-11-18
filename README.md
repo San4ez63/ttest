@@ -27,7 +27,6 @@
 
 <https://github.com/netology-code/javaqa-homeworks/blob/master/.gitignore>
 
-< KeyValidator.class>
 
 https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class
 
