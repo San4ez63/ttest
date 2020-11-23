@@ -14,27 +14,24 @@
 
 **В результате тестирования выявлены следующие дефекты**:
 
-https://github.com/San4ez63/ttest/issues/1
+[Некорректный вывод невалидных ключей в приложении KeyValidator](https://github.com/San4ez63/ttest/issues/1)
 
-https://github.com/San4ez63/ttest/issues/2
-
-https://github.com/San4ez63/ttest/issues/3
+[Некорректный вывод невалидных ключей в приложении KeyValidator2](https://github.com/San4ez63/ttest/issues/3)
 
 
 **Описание процесса тестирования**
 
 **В процессе тестирования использовались следующие артефакты**:
 
-<https://github.com/netology-code/javaqa-homeworks/blob/master/.gitignore>
+[.gitignore](https://github.com/netology-code/javaqa-homeworks/blob/master/.gitignore)
 
 
-https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class
-
+[KeyValidator.class](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class)
 
 
 **В качестве тестовых данных использовались данные**:
 
-<https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md>:
+[Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 
 **В результате работы вывод приложения будет выглядеть следующим образом**:
