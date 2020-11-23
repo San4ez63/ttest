@@ -12,7 +12,7 @@
 **Описание процесса тестирования**:
 
 **В качестве тестовых данных использовались данные**: 
-<https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md>
+[Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 
 
  
